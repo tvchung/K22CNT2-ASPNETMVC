@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\devmaster.edu.vn\\K22CNT2-ASPNETMVC\\Lesson01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57074F72-3EBF-4153-99DD-1AD6D9AA2BC1}|Lab1.1\\Lab1.1.csproj|c:\\devmaster.edu.vn\\k22cnt2-aspnetmvc\\lesson01\\lab1.1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57074F72-3EBF-4153-99DD-1AD6D9AA2BC1}|Lab1.1\\Lab1.1.csproj|solutionrelative:lab1.1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57074F72-3EBF-4153-99DD-1AD6D9AA2BC1}|Lab1.1\\Lab1.1.csproj|c:\\devmaster.edu.vn\\k22cnt2-aspnetmvc\\lesson01\\lab1.1\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57074F72-3EBF-4153-99DD-1AD6D9AA2BC1}|Lab1.1\\Lab1.1.csproj|solutionrelative:lab1.1\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57074F72-3EBF-4153-99DD-1AD6D9AA2BC1}|Lab1.1\\Lab1.1.csproj|c:\\devmaster.edu.vn\\k22cnt2-aspnetmvc\\lesson01\\lab1.1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57074F72-3EBF-4153-99DD-1AD6D9AA2BC1}|Lab1.1\\Lab1.1.csproj|solutionrelative:lab1.1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57074F72-3EBF-4153-99DD-1AD6D9AA2BC1}|Lab1.1\\Lab1.1.csproj|c:\\devmaster.edu.vn\\k22cnt2-aspnetmvc\\lesson01\\lab1.1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57074F72-3EBF-4153-99DD-1AD6D9AA2BC1}|Lab1.1\\Lab1.1.csproj|solutionrelative:lab1.1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7FBCAA9-445C-40F2-B016-C39D8AC9BF2B}|Lesson01\\Lesson01.csproj|c:\\devmaster.edu.vn\\k22cnt2-aspnetmvc\\lesson01\\lesson01\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7FBCAA9-445C-40F2-B016-C39D8AC9BF2B}|Lesson01\\Lesson01.csproj|solutionrelative:lesson01\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7FBCAA9-445C-40F2-B016-C39D8AC9BF2B}|Lesson01\\Lesson01.csproj|c:\\devmaster.edu.vn\\k22cnt2-aspnetmvc\\lesson01\\lesson01\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7FBCAA9-445C-40F2-B016-C39D8AC9BF2B}|Lesson01\\Lesson01.csproj|solutionrelative:lesson01\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\devmaster.edu.vn\\K22CNT2-ASPNETMVC\\Lesson01\\Lab1.1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Lab1.1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\devmaster.edu.vn\\K22CNT2-ASPNETMVC\\Lesson01\\Lab1.1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Lab1.1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAgAAAAAAAAAAADwvxcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-08T07:28:55.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\devmaster.edu.vn\\K22CNT2-ASPNETMVC\\Lesson01\\Lab1.1\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "Lab1.1\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\devmaster.edu.vn\\K22CNT2-ASPNETMVC\\Lesson01\\Lab1.1\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "Lab1.1\\Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvw4AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-08T07:27:35.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\devmaster.edu.vn\\K22CNT2-ASPNETMVC\\Lesson01\\Lab1.1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lab1.1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\devmaster.edu.vn\\K22CNT2-ASPNETMVC\\Lesson01\\Lab1.1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Lab1.1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-08T07:26:20.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\devmaster.edu.vn\\K22CNT2-ASPNETMVC\\Lesson01\\Lab1.1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Lab1.1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\devmaster.edu.vn\\K22CNT2-ASPNETMVC\\Lesson01\\Lab1.1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Lab1.1\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAADwvwgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T07:25:47.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\devmaster.edu.vn\\K22CNT2-ASPNETMVC\\Lesson01\\Lesson01\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lesson01\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\devmaster.edu.vn\\K22CNT2-ASPNETMVC\\Lesson01\\Lesson01\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Lesson01\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-08T07:22:50.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\devmaster.edu.vn\\K22CNT2-ASPNETMVC\\Lesson01\\Lesson01\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Lesson01\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\devmaster.edu.vn\\K22CNT2-ASPNETMVC\\Lesson01\\Lesson01\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Lesson01\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T07:22:23.288Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
